@@ -1,3 +1,4 @@
+```
 usage: climail [-h] -sadd SERVER_ADDRESS -fadd FROM_ADDRESS -pw PASSWORD -tadd
                TO_ADDRESS [-p PORT] [-s [SUBJECT]] [-b [BODY]] [--ID ID]
                [--no_host_tag] [--suffix_tag]
@@ -32,3 +33,4 @@ required named arguments:
                         single quotes ('') (default: None)
   -tadd TO_ADDRESS, --to_address TO_ADDRESS
                         Destination email address (default: None)
+```
